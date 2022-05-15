@@ -1,4 +1,4 @@
-# Next js + Tailwind boilerplate
+# Next js + Chakra UI boilerplate
 
 It's got all the shit setup you never want to to configure.
 
